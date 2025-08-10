@@ -1,0 +1,14 @@
+[project]
+name = "opero-backend"
+version = "0.1.0"
+description = "FastAPI backend for opero-use"
+requires-python = ">=3.9"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "langchain-openai",
+    "langchain",
+    "dotenv",
+    "pymongo>=4.13.2",
+    "stripe>=12.3.0",
+] 
