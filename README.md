@@ -64,7 +64,7 @@ Then start the backend server from the backend directory:
 
 ## Extension
 
-To start the Chrome extension development server, run the following commands from the root directory:
+To start the Chrome extension development server, run the following commands from the root directory in a new terminal window:
 
 ```bash
 cd extension
