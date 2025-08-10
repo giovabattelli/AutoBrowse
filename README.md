@@ -14,9 +14,9 @@ Dependencies for the backend are managed with `uv` and the `backend/pyproject.to
 Set up the virtual environment and install dependencies:
 
 ```bash
+cd backend
 uv venv                   
 source .venv/bin/activate 
-cd backend
 uv sync                   
 deactivate               
 ```
