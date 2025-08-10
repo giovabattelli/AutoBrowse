@@ -1,7 +1,9 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # AutoBrowse
-Automate any web browsing task with this chrome extension; AutoBrowse is best used for automatic social media engagement farming (using the dedicated social media mode), or just general browser tasks.
+Automate repetitive web tasks right from your own Chrome profile.
+
+AutoBrowse is a Chrome extension that drives your existing browser to perform routine actions for you. Use the dedicated Social Mode for hands-off social media workflows (e.g., engagement farming on [twitter](https://x.com)), or switch to General Mode for everyday automation across the web.
 
 ## Backend
 
