@@ -53,6 +53,7 @@ Before running the server (especially after a `git pull`), update dependencies i
 ```bash
 source .venv/bin/activate
 uv sync
+deactivate
 ```
 
 Then start the backend server from the backend directory:
